@@ -1,0 +1,16 @@
+.github
+.yarn
+src
+test
+
+.editorconfig
+.eslintcache
+.eslintrc.js
+.gitattributes
+.gitignore
+.prettierrc
+.prettierrc.js
+CHANGELOG.md
+tsconfig.build.json
+tsconfig.json
+typedoc.json
