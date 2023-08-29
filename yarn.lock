@@ -163,7 +163,7 @@ __metadata:
     "@lavamoat/allow-scripts": ^2.3.0
     "@metamask/auto-changelog": ^3.0.0
     "@metamask/eslint-config": ^8.0.0
-    "@metamask/eslint-config-mocha": ^8.0.0
+    "@metamask/eslint-config-mocha": ^12.1.0
     "@metamask/eslint-config-nodejs": ^8.0.0
     "@metamask/eslint-config-typescript": ^8.0.0
     "@metamask/eth-sig-util": ^5.0.2
@@ -677,14 +677,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/eslint-config-mocha@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "@metamask/eslint-config-mocha@npm:8.0.0"
+"@metamask/eslint-config-mocha@npm:^12.1.0":
+  version: 12.1.0
+  resolution: "@metamask/eslint-config-mocha@npm:12.1.0"
   peerDependencies:
-    "@metamask/eslint-config": ^8.0.0
-    eslint: ^7.23.0
-    eslint-plugin-mocha: ^8.1.0
-  checksum: 09bd2554e958c3b43b02de2728a32185d2d87e87d01303bafd37d46e26f37dfe151d3014a29f958d849f3c2d39e6c457d5dd996104eadc959663b84c7cc9cd9e
+    "@metamask/eslint-config": ^12.0.0
+    eslint: ^8.27.0
+    eslint-plugin-mocha: ^10.1.0
+  checksum: ddbb5097ec4f1c51550ad1daa26cd3266ac229cb3625b8830256a391fc1d3cd669fe1b6294477e0a295ed202e4a7394f0f4296be3a24c22c59d097df1713a7ea
   languageName: node
   linkType: hard
 
